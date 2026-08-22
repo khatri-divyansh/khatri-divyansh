@@ -62,7 +62,6 @@ A digital platform for securely storing and managing **invoices, bills and finan
 
 I'm actively working on hackathon projects focused on solving **real-world problems using technology**, including platforms involving:
 
-* 🌾 Contract Farming & Assured Market Access
 * 📊 Student Assessment & Performance Analysis
 * 🤖 AI-powered applications
 * 🏥 Digital healthcare solutions
@@ -79,38 +78,14 @@ Currently using **C++ and Java** for competitive programming and LeetCode practi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshKhatri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshKhatri&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyanshKhatri&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshKhatri&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:divyanshkhatri@gmail.com">
+  <a href="mailto:divyanshkhatri476@gmail.com">
     <img src="https://img.shields.io/badge/Email-DivyanshKhatri-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/DivyanshKhatri">
+  <a href="https://github.com/khatri-divyansh">
     <img src="https://img.shields.io/badge/GitHub-DivyanshKhatri-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
