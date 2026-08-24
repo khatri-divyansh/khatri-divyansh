@@ -11,7 +11,7 @@ I enjoy turning ideas into functional products — from full-stack web applicati
 * 💡 Interested in **Web Development, AI/ML & scalable applications**
 * 🧠 Regularly practicing **Data Structures & Algorithms**
 * 🏆 Actively participating in **hackathons and technical projects**
-* 📫 Reach me at **[divyanshkhatri@gmail.com](mailto:divyanshkhatri@gmail.com)**
+* 📫 Reach me at **[divyanshkhatri@gmail.com](mailto:divyanshkhatri476@gmail.com)**
 
 ---
 
